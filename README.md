@@ -1,1 +1,1 @@
-# Online-Shop
+# A sample Web Shop
